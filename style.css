@@ -37,6 +37,9 @@ img {
 /* header */
 .header {
    background-color: rgb(0, 0, 0);
+   position:sticky;
+   top:0;
+   z-index:9999999999999999;
 }
 
 .header .header-left {
